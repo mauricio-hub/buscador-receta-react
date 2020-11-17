@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,wBAAwB,CACxB,iBAGF,CAEA,GACE,aACF","file":"main.fdc21120.chunk.css","sourcesContent":["body {\n  background-color:#eeeded;\n  text-align: center;\n\n\n}\n\nh1{\n  color:#fd8c04; \n}\n\n"]}

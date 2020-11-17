@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buscador-receta-react/static/css/main.fdc21120.chunk.css",
+    "main.js": "/buscador-receta-react/static/js/main.7a71d439.chunk.js",
+    "main.js.map": "/buscador-receta-react/static/js/main.7a71d439.chunk.js.map",
+    "runtime-main.js": "/buscador-receta-react/static/js/runtime-main.773ccfa8.js",
+    "runtime-main.js.map": "/buscador-receta-react/static/js/runtime-main.773ccfa8.js.map",
+    "static/js/2.9d04d217.chunk.js": "/buscador-receta-react/static/js/2.9d04d217.chunk.js",
+    "static/js/2.9d04d217.chunk.js.map": "/buscador-receta-react/static/js/2.9d04d217.chunk.js.map",
+    "index.html": "/buscador-receta-react/index.html",
+    "static/css/main.fdc21120.chunk.css.map": "/buscador-receta-react/static/css/main.fdc21120.chunk.css.map",
+    "static/js/2.9d04d217.chunk.js.LICENSE.txt": "/buscador-receta-react/static/js/2.9d04d217.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773ccfa8.js",
+    "static/js/2.9d04d217.chunk.js",
+    "static/css/main.fdc21120.chunk.css",
+    "static/js/main.7a71d439.chunk.js"
+  ]
+}
